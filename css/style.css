@@ -14,7 +14,7 @@
 }
 /*CSS SLIDE*/
 .slider1 {
-    background-image: url('/images/slide-banner-1.png');
+    background-image: url('https://quocdat12.github.io/demowebsite/images/slide-banner-1.png');
     clip-path: polygon(100% 0, 100% 77%, 72% 100%, 0 77%, 0 0);
     background-repeat: round;
     padding-bottom: 80px;
