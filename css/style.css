@@ -10,7 +10,7 @@
 }
 /***********CSS GIáº¢I PHÃP TIÃŠU BIá»‚U DESKTOP***********/
 .giaiphaptieubieu{
-    background-image: url('/images/backgroud-gp-tieubieu.png');
+    background-image: url('https://quocdat12.github.io/demowebsite/images/backgroud-gp-tieubieu.png');
 }
 /*CSS SLIDE*/
 .slider1 {
@@ -25,7 +25,7 @@
 .col-img-loiich {
     position: relative;
     left: -22px;
-    background-image: url('/images/ichoi.JPG');
+    background-image: url('https://quocdat12.github.io/demowebsite/images/ichoi.JPG');
     background-repeat: no-repeat;
     background-position-y: 22%;
     background-position-x: 57%;
