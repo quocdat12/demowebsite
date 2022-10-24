@@ -1,20 +1,20 @@
 /*********************************/
 /*CSS PHáº¦N Há»† SINH THÃI*/
 .hesinh-thai{
-    background-image: url('https://quocdat12.github.io/demowebsite/images/bg.png');
+    background-image: url('/images/bg.png');
 }
 /*CSS BANNER Táº O MÃƒ QR MIá»„N PHÃ*/
 .banner{
-    background-image: url('https://quocdat12.github.io/demowebsite/images/bg2.png');
+    background-image: url('/images/bg2.png');
     background-position: center;
 }
 /***********CSS GIáº¢I PHÃP TIÃŠU BIá»‚U DESKTOP***********/
 .giaiphaptieubieu{
-    background-image: url('https://quocdat12.github.io/demowebsite/images/backgroud-gp-tieubieu.png');
+    background-image: url('/images/backgroud-gp-tieubieu.png');
 }
 /*CSS SLIDE*/
 .slider1 {
-    background-image: url(https://quocdat12.github.io/demowebsite/images/slide-banner-1.png);
+    background-image: url('/images/slide-banner-1.png');
     clip-path: polygon(100% 0, 100% 77%, 72% 100%, 0 77%, 0 0);
     background-repeat: round;
     padding-bottom: 80px;
@@ -25,7 +25,7 @@
 .col-img-loiich {
     position: relative;
     left: -22px;
-    background-image: url('https://quocdat12.github.io/demowebsite/images/ichoi.JPG');
+    background-image: url('/images/ichoi.JPG');
     background-repeat: no-repeat;
     background-position-y: 22%;
     background-position-x: 57%;
